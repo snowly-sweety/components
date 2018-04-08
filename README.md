@@ -6,7 +6,7 @@ custom the components style for vue
 
 
 
-## button-grounp
+#### button-grounp
 
 重新定义ElementUI的button的样式，但保留其功能。
 改进当button失去焦点时，样式消失的弊端。
